@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 -->
 
-<!-- 사용한 언어 비율 나타내는 코드 -->
+<!-- 사용한 언어 비율 나타내는 위젯 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeeon)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 내 깃허브에 대한 평판 나타내는 위젯 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeeon&hide=contribs,prs&show_icons=true&theme=catppuccin_latte)
+
+
 
